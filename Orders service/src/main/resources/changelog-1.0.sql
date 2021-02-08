@@ -1,0 +1,9 @@
+-- CREATE TABLE Orders
+-- (
+--     id integer NOT NULL PRIMARY KEY,
+--     product_id integer NOT NULL,
+--     product character varying(100) NOT NULL,
+--     quantity integer,
+--     created_date date NOT NULL,
+--     last_modified_date date
+-- );
